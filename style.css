@@ -3,6 +3,7 @@ h1{
     color:blue;
 }
 
-form{
+.submit{
     color: blue;
+    background-color: brown;
 }
